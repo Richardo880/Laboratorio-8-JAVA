@@ -5,22 +5,6 @@
  */
 package bst;
 
-/**
- *
- * @author ricar
- */
-/*
- * ALGORITMOS Y ESTRUCTURAS DE DATOS III - Seccion TQ - Prof. Cristian Cappo / Prof. Luis More
- * Ing. Informatica
- * 2021-1er Periodo
- *
- * Implementa la clase BST (Arbol Binario de Busqueda)
- * El dato cuya referencia se almacena en cada nodo
- * es un Comparable o derivado. 
- *
- * Esta implementaci�n no utiliza Generic !!
- * ---------------------------------------
- */
 
 public class BST
 {
